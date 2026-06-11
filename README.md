@@ -28,5 +28,10 @@ university page. Built entirely from scratch using frontend technologies.
 
 ## 👨‍💻 Developer
 **Arman Forouharfard**  
-[GitHub](https://github.com/ArmanForouharfard) | 
-[LinkedIn](your-linkedin-url)
+
+## ⚠️ Image Disclaimer
+All images used in this project are for **conceptual and educational 
+purposes only**. They are not owned by the developer and are used 
+solely to demonstrate the website's design and layout. All rights 
+belong to their respective owners. This project is non-commercial 
+and intended as a portfolio demonstration only.
