@@ -27,7 +27,7 @@ university page. Built entirely from scratch using frontend technologies.
 - Contact Us
 
 ## 👨‍💻 Developer
-**Arman Forouharfard**
+**Arman Forouharfard** 
 [GitHub](https://github.com/ArmanForouharfard) | 
 [LinkedIn](https://www.linkedin.com/in/arman-forouharfard-a3a360271/)
 
